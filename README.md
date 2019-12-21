@@ -1,5 +1,5 @@
 # GEE-Arcpy_Exemp_001
-Um exemplo simples de integração da API do GEE com o Arcpy do Arcgis 10.2
+Um exemplo simples de integração da biblioteca do GEE em python com o Arcpy do Arcgis 10.2
 
 A aplicação simula uma aplicação web integrando o uso da biblioteca do Google Earth Engine e a biblioteca Arcpy do Arcgis 10.2, através da linguagem python.
 
