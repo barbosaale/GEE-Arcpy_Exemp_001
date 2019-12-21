@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+
+html,body{
+	height: 100%; 
+}
+
+body {
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #c4c4c4 !important;
+    font-family: "robotoRegular", Helvetica, sans-serif;
+    height: 100%;
+}
+
+.container{
+	
+	position: relative;
+}
+
+.row{
+	width: 100%;
+	padding: 0 5px;
+}
+
+.navbar.navbar-login {
+    height: 70px;
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+}
+
+
+.sombra {
+    margin-bottom: 16px;
+    filter: progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, Strength=1, Direction=0), progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, Strength=5, Direction=90), progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, Strength=5, Direction=180), progid:DXImageTransform.Microsoft.Shadow(Color=#cccccc, Strength=1, Direction=270);
+    -webkit-box-shadow: 7px 8px 10px -10px;;
+    -moz-box-shadow: 7px 8px 10px -10px;;
+    box-shadow: 7px 8px 10px -10px;
+    position: relative;
+}
+
+
+.b1{
+	height: 500px;
+	background-color: white;
+	border-radius: 7px;
+	margin: 10px 5px;
+}
+
+.b2{
+	height: 200px;
+	background-color: #4f4f4f;
+}
+
+.menu{
+	height: 500px;
+	padding: 20px;
+	background-color: white;
+	border-radius: 7px;
+	margin: 10px 5px;
+}
+
+.menu a{
+	display: block;
+	width: 80px;
+}
+
+.prompt{
+	padding: 20px;
+	color: white;
+	font-size: 20px;
+	overflow-y: auto;
+}
